@@ -1,2 +1,2 @@
 # Nitro-generator
-I made this a while ago decided to Finnish it. Try not to skid it
+THE PY IS THE SOURCE IF YOU WANT IT I MADE THE EXE FOR THE PEOPLE THAT DONT GOT PY
